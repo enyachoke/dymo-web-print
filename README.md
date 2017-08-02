@@ -1,2 +1,2 @@
 # dymo-web-print
-enyachoke.github.io/dymo-web-print
+http://enyachoke.github.io/dymo-web-print
